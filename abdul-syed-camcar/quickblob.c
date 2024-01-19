@@ -3,7 +3,7 @@
 #include <string.h>
 
 #include "quickblob.h"
-//#include "debugstuff.c"
+#include "debugstuff.c"
 
 // licensed LGPL
 
@@ -36,7 +36,7 @@ struct blob_list
 {
     struct blob* head;
     int length;
-    struct blob** empties;  // stack
+    struct blob** empties;  //stack
     int empty_i;
 };
 
