@@ -4,7 +4,7 @@
 // 4tronix initio robot car. One can run this program within an
 // ssh session.
 //
-// author: Abdul Mateen Syed (19064164)
+// author: Abdul Mateen Syed
 //
 // license: GNU LESSER GENERAL PUBLIC LICENSE
 //          Version 2.1, February 1999
@@ -43,7 +43,7 @@
 // behaviour.
 //======================================================================
 
-// desitance [in cm] to keep, given as two threshold values:
+// distance [in cm] to keep, given as two threshold values:
 #define DIST_MIN 60
 #define DIST_MAX 100
 
