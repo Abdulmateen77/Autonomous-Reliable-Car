@@ -238,7 +238,7 @@ int main (int argc, char *argv[])
 
   if (pthread_create(&cam_thread, &pt_attr, worker, (void*)&tdat) != 0) {
         perror("Error creating thread");
-        endwin();           // curses: cleanup the library
+        endwin();           // curses:cleanup the library
         return EXIT_FAILURE;
     }
   // TODO: distroy thread attribute pt_attr via pthread_attr_destroy()
