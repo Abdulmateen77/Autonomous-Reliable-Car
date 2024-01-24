@@ -55,7 +55,7 @@ struct thread_dat {
   int bExit; 		// flag to indicate termination of thread
 };
 
-pthread_mutex_t count_mutex; // mutex to protect thread communication
+pthread_mutex_t count_mutex; //mutex to protect thread communication
 
 //======================================================================
 // camcar():
