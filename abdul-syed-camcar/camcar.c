@@ -48,7 +48,7 @@
 #define DIST_MIN 60
 #define DIST_MAX 100
 
-// data structure to communicate between main thread and camera thread
+//data structure to communicate between main thread and camera thread
 struct thread_dat {
   TBlobSearch blob;	// blob object from camera
   int blobnr;		// record blob number (to know that a new image has been produced)
