@@ -48,13 +48,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Connect the necessary sensors and actuators to your Raspberry Pi.
 - Run the compiled executable, and the car should demonstrate autonomous behavior.
 
-## Contributing
-
-Contributions are welcome! Please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
-
-## License
-
-This project is licensed under the GNU Lesser General Public License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
