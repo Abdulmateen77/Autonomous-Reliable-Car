@@ -11,7 +11,7 @@
 //          (for details see LICENSE file)
 //
 // Compilation: 
-// gcc -o camcar -Wall -Werror -lcurses -lwiringPi -lpthread -linitio camcar.c
+// gcc -o camcar -Wall -Werror -lcurses -lwiringPi -lpthread -linitio camcar.c 
 //
 //======================================================================
 
