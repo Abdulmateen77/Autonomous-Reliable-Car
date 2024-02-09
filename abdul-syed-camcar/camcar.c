@@ -10,8 +10,8 @@
 //          Version 2.1, February 1999
 //          (for details see LICENSE file)
 //
-// Compilation: 
-// gcc -o camcar -Wall -Werror -lcurses -lwiringPi -lpthread -linitio camcar.c 
+//Compilation: 
+//gcc -o camcar -Wall -Werror -lcurses -lwiringPi -lpthread -linitio camcar.c 
 //
 //======================================================================
 
