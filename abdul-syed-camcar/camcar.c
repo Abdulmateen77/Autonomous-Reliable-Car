@@ -1,4 +1,5 @@
 //======================================================================
+
 //
 // Test program to test the infrared sensors (and motors) of the
 // 4tronix initio robot car. One can run this program within an
@@ -13,6 +14,7 @@
 // Compilation: 
 // gcc -o camcar -Wall -Werror -lcurses -lwiringPi -lpthread -linitio camcar.c 
 //
+
 //======================================================================
 
 #include <stdlib.h>
