@@ -7,7 +7,6 @@
 
 // licensed LGPL
 
-/*
 ARCHITECTURE
     image is streamed row by row
     blobs are tracked as line segments on a row
